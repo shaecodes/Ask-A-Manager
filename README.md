@@ -20,6 +20,7 @@ By completing this project, I hope to develop essential skills in data manipulat
 - Data Visualization
 - Data Communication and Presentation (using Powerpoint) 
 
+Based on my preliminary assessment, I estimate that this project may take approximately 3-4 weeks to complete.
 
 
 
