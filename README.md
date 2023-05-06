@@ -13,14 +13,14 @@ To begin the cleaning process, I will need to identify and address the null valu
 By completing this project, I hope to develop essential skills in data manipulation, transformation, and visualization, which are crucial for data analysis. These skills will help me work more efficiently and effectively with data, and I will be better equipped to handle complex data analysis tasks in the future.
 
 ## What will this project entail? 
-- Data Collection
+- Data Collection ✓
 - Data Cleaning or Preprocessing
 - Data Exploration
 - Data Analysis
 - Data Visualization
 - Data Communication and Presentation (using Powerpoint) 
 
-Based on my preliminary assessment, I estimate that this project may take approximately 3-4 weeks to complete.
+Based on my preliminary assessment, I estimate that this project may take approximately 3-4 weeks to complete. Therefore updates will be made to this repository whenever possible. 
 
 
 
