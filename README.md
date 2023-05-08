@@ -18,5 +18,5 @@ By completing this project, I hope to develop essential skills in data manipulat
 
 Based on my preliminary assessment, I estimate that this project may take approximately 2-3 weeks to complete. Therefore updates will be made to this repository whenever possible. 
 
-**All data is cleaned except for the industry column. The industry column presents a significant challenge in terms of data cleansing, however, the potential insights that can be gained upon successful completion of this process are noteworthy. Given the complexity of this task, collaborative efforts are required to ensure the accuracy and completeness of the data. Consequently, we regret to inform you that this project will be suspended until further notice.**
+**All data is clean except for the industry column. The industry column presents a significant challenge in terms of data cleansing, however, the potential insights that can be gained upon successful completion of this process are noteworthy. Given the complexity of this task, collaborative efforts are required to ensure the accuracy and completeness of the data. Consequently, we regret to inform you that this project will be suspended until further notice.**
 
