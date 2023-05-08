@@ -10,7 +10,7 @@ The primary goal of this project is to learn how to clean data, as data analysts
 
 To begin the cleaning process, I will need to identify and address the null values and inconsistent data in the file. Once the data is cleaned, I will be able to manipulate and transform it to gain insights, identify patterns, and make informed decisions based on my findings.
 
-By completing this project, I hope to develop essential skills in data manipulation, transformation, and visualization, which are crucial for data analysis. These skills will help me work more efficiently and effectively with data, and I will be better equipped to handle complex data analysis tasks in the future.
+By completing this project, I hope to develop essential skills in data manipulation and transformation which are crucial for data analysis. These skills will help me work more efficiently and effectively with data, and I will be better equipped to handle complex data analysis tasks in the future.
 
 ## What will this project entail? 
 - Data Collection ✓
@@ -18,5 +18,5 @@ By completing this project, I hope to develop essential skills in data manipulat
 
 Based on my preliminary assessment, I estimate that this project may take approximately 2-3 weeks to complete. Therefore updates will be made to this repository whenever possible. 
 
-**The industry column presents a significant challenge in terms of data cleansing, however, the potential insights that can be gained upon successful completion of this process are noteworthy. Given the complexity of this task, collaborative efforts are required to ensure the accuracy and completeness of the data. Consequently, we regret to inform you that this project will be suspended until further notice.**
+**All data is cleaned except for the industry column. The industry column presents a significant challenge in terms of data cleansing, however, the potential insights that can be gained upon successful completion of this process are noteworthy. Given the complexity of this task, collaborative efforts are required to ensure the accuracy and completeness of the data. Consequently, we regret to inform you that this project will be suspended until further notice.**
 
